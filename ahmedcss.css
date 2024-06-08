@@ -1,0 +1,52 @@
+header {
+    background-color:#f0f0f0 ;
+    width: 100%;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+.logo{
+    text-decoration: none;
+    color:#3a6cf4 ;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
+.navigation a{
+    color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.8em;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.navigation a:hover{
+color: #281751;
+}
+section{
+padding: 100px 200px;
+}
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url("C:/Users/Islam/Downloads/programers.jpg");
+    background-size:cover;
+    background-position:center;
+    background-attachemnt:fixed;
+}
+.main h2 {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+
+
+}
+
+
+
+
+    
+
